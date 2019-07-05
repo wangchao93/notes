@@ -1,4 +1,3 @@
-阿达大厦的阿萨德阿萨德asa
 git使用
 ssh-keygen-t rsa-C "your_email@youremail.com"获取秘钥
 github添加秘钥
