@@ -1,3 +1,4 @@
+阿达大厦的阿萨德阿萨德asa
 git使用
 ssh-keygen-t rsa-C "your_email@youremail.com"获取秘钥
 github添加秘钥
@@ -68,7 +69,7 @@ git常见错误
 
 
     解决办法如下：
-			git pull --rebase origin master
+	 git pull --rebase origin master
 
     1、先输入$ git pull origin master //先把远程服务器github上面的文件拉下来
 
